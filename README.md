@@ -10,6 +10,8 @@
 
 Для запуска программы введите в консоли:
 
-```ruby magic_ball.rb```
+```
+ruby magic_ball.rb
+```
 
 Лицензия MIT – см. `LICENSE`
